@@ -1,0 +1,20 @@
+{
+  "name": "otp-cli",
+  "version": "0.1.0",
+  "description": "CLI methods for OTP",
+  "bin": {
+    "otp-cli": "src/cli.js"
+  },
+  "main": "src/cli.js",
+  "scripts": {
+    "test": "mocha test/"
+  },
+  "keywords": [
+    "otp"
+  ],
+  "author": "jaskaran.cloud@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "yargs": "^11.0.0"
+  }
+}
