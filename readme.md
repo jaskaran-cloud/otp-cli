@@ -1,6 +1,6 @@
 # OTP CLI
 
-[![Build Status][travis-image]][travis-url]
+![Build Status](https://travis-ci.org/jaskaran-cloud/otp-cli.svg?branch=master)
 
 ## Usage
 run `otp-cli -h` for available options 
