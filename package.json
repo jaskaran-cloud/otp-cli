@@ -1,6 +1,6 @@
 {
   "name": "otp-cli",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "description": "CLI methods for OTP",
   "bin": {
     "otp-cli": "src/cli.js"
@@ -22,6 +22,7 @@
     "yargs": "^11.0.0"
   },
   "devDependencies": {
-    "chai": "^4.1.2"
+    "chai": "^4.1.2",
+    "mocha": "^5.0.0"
   }
 }
